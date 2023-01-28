@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = auroraemu@gmail.com
+	name = aurora muggianu
